@@ -42,6 +42,11 @@ jobs:
         run: |
           python monitor.py
 
+      # ➕ 1. 运行 LunaTV 配置文件转换脚本
+      - name: Generate LunaTV Config
+        run: |
+          python convert_lunatv.py
+
       - name: Clean old history files
         run: |
           cd docs/data
