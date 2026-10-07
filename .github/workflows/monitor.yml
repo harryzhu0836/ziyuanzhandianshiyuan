@@ -25,6 +25,12 @@ concurrency:
 jobs:
   monitor:
     runs-on: ubuntu-latest
+
+    # ➕ 指定部署环境，解决 Missing environment 报错
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -42,7 +48,6 @@ jobs:
         run: |
           python monitor.py
 
-      # ➕ 1. 运行 LunaTV 配置文件转换脚本
       - name: Generate LunaTV Config
         run: |
           python convert_lunatv.py
@@ -69,4 +74,5 @@ jobs:
           path: docs/
 
       - name: Deploy to GitHub Pages
+        id: deployment
         uses: actions/deploy-pages@v4
