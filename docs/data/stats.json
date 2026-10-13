@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-12 14:09:20",
+  "timestamp": "2026-10-13 00:02:59",
   "overview": {
     "total": 74,
     "alive": 63,
@@ -7,10 +7,10 @@
     "onlineRate": 85.1
   },
   "responseTime": {
-    "avg": 549.8,
-    "min": 82.7,
-    "max": 2035.77,
-    "median": 396.95
+    "avg": 623.1,
+    "min": 106.34,
+    "max": 2208.58,
+    "median": 487.92
   },
   "ratingDistribution": {
     "4.5-5.0": 11,
