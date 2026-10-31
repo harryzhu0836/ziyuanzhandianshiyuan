@@ -462,16 +462,6 @@
     },
     {
       "key": "site_ziyuan_47",
-      "name": "大地资源站",
-      "type": 1,
-      "api": "https://dadiapi.com/api.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": ""
-    },
-    {
-      "key": "site_ziyuan_48",
       "name": "小鸡资源站",
       "type": 1,
       "api": "https://api.xiaojizy.live/provide/vod/",
@@ -481,7 +471,7 @@
       "ext": ""
     },
     {
-      "key": "site_ziyuan_49",
+      "key": "site_ziyuan_48",
       "name": "湿乐园资源站",
       "type": 1,
       "api": "https://xxavs.com/api.php/provide/vod/",
@@ -491,7 +481,7 @@
       "ext": ""
     },
     {
-      "key": "site_ziyuan_50",
+      "key": "site_ziyuan_49",
       "name": "番号资源站",
       "type": 1,
       "api": "http://fhapi9.com/api.php/provide/vod/",
@@ -501,7 +491,7 @@
       "ext": ""
     },
     {
-      "key": "site_ziyuan_51",
+      "key": "site_ziyuan_50",
       "name": "越南资源站",
       "type": 1,
       "api": "https://api.vnzyz.com/api.php/provide/vod/",
@@ -511,7 +501,7 @@
       "ext": ""
     },
     {
-      "key": "site_ziyuan_52",
+      "key": "site_ziyuan_51",
       "name": "爱坤资源站",
       "type": 1,
       "api": "https://ikunzyapi.com/api.php/provide/vod/",
@@ -521,7 +511,7 @@
       "ext": ""
     },
     {
-      "key": "site_ziyuan_53",
+      "key": "site_ziyuan_52",
       "name": "杏吧资源站",
       "type": 1,
       "api": "https://json.xingba222.com/api.php/provide/vod",
@@ -531,7 +521,7 @@
       "ext": ""
     },
     {
-      "key": "site_ziyuan_54",
+      "key": "site_ziyuan_53",
       "name": "滴滴资源站",
       "type": 1,
       "api": "https://api.ddapi.cc/api.php/provide/vod/",
@@ -541,7 +531,7 @@
       "ext": ""
     },
     {
-      "key": "site_ziyuan_55",
+      "key": "site_ziyuan_54",
       "name": "番茄资源站",
       "type": 1,
       "api": "https://fqzy.me/api.php/provide/vod/",
@@ -551,17 +541,7 @@
       "ext": ""
     },
     {
-      "key": "site_ziyuan_56",
-      "name": "如意资源站",
-      "type": 1,
-      "api": "https://api.ryzy.com/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": ""
-    },
-    {
-      "key": "site_ziyuan_57",
+      "key": "site_ziyuan_55",
       "name": "搜av资源站",
       "type": 1,
       "api": "https://api.souavzyw.net/api.php/provide/vod",
@@ -571,7 +551,7 @@
       "ext": ""
     },
     {
-      "key": "site_ziyuan_58",
+      "key": "site_ziyuan_56",
       "name": "白嫖资源站",
       "type": 1,
       "api": "https://www.kxgav.com/api/json.php/api.php/provide/vod",
@@ -581,7 +561,7 @@
       "ext": ""
     },
     {
-      "key": "site_ziyuan_59",
+      "key": "site_ziyuan_57",
       "name": "美少女资源站",
       "type": 1,
       "api": "https://www.msnii.com/api/json.php/api.php/provide/vod",
@@ -591,7 +571,7 @@
       "ext": ""
     },
     {
-      "key": "site_ziyuan_60",
+      "key": "site_ziyuan_58",
       "name": "豆豆资源站",
       "type": 1,
       "api": "https://api.douapi.cc/api.php/provide/vod",
@@ -601,7 +581,7 @@
       "ext": ""
     },
     {
-      "key": "site_ziyuan_61",
+      "key": "site_ziyuan_59",
       "name": "黄av资源站",
       "type": 1,
       "api": "https://www.pgxdy.com/api/json.php/api.php/provide/vod",
@@ -611,7 +591,7 @@
       "ext": ""
     },
     {
-      "key": "site_ziyuan_62",
+      "key": "site_ziyuan_60",
       "name": "X水机资源站",
       "type": 1,
       "api": "https://www.xrbsp.com/api/json.php/api.php/provide/vod",
@@ -621,7 +601,7 @@
       "ext": ""
     },
     {
-      "key": "site_ziyuan_63",
+      "key": "site_ziyuan_61",
       "name": "香X儿资源站",
       "type": 1,
       "api": "https://www.gdlsp.com/api/json.php/api.php/provide/vod",
